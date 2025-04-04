@@ -22,19 +22,13 @@ We welcome contributions from all skill levels! Follow these guidelines to get s
    cd YOUR_REPO
    ```
 
-4. **Navigate to the Relevant Project**
-
-   ```sh
-   cd project-name
-   ```
-
-5. **Create a New Branch**
+4. **Create a New Branch**
 
    ```sh
    git checkout -b feature-branch
    ```
 
-6. **Make Changes & Commit**
+5. **Make Changes & Commit**
 
    - Follow the existing coding style.
    - Write clear and meaningful commit messages:
@@ -43,7 +37,7 @@ We welcome contributions from all skill levels! Follow these guidelines to get s
    git commit -m "feat: implemented wallet authentication (Fixes #42)"
    ```
 
-7. **Push & Create a PR**
+6. **Push & Create a PR**
 
    ```sh
    git push origin feature-branch
@@ -52,7 +46,7 @@ We welcome contributions from all skill levels! Follow these guidelines to get s
    - Open a Pull Request on GitHub.
    - Reference the issue in the PR description.
 
-8. **Code Review & Merge**
+7. **Code Review & Merge**
 
    - A reviewer will check your PR.
    - Once approved, it will be merged into the main branch.
@@ -60,7 +54,8 @@ We welcome contributions from all skill levels! Follow these guidelines to get s
 ## ❗ Contribution Rules
 
 ✅ PRs must reference an issue.\
-✅ Issues should have labels before assignment.\
+✅ Always endeavour to add relevant labels to your issues.\
+✅ Your code must be clean and well-structured.\
 ✅ Contributors must be assigned before working on an issue.\
 ✅ If a contributor is inactive, the issue can be reassigned.
 

@@ -1,11 +1,11 @@
 # Superteam Kano Devs Dashboard
 
 Welcome to the official **Superteam Kano Devs Dashboard**! 🚀  
-This is a collaborative learning space where members can contribute to multiple projects focused on building decentralized applications (**dApps**) on **Solana**.
+This is a collaborative learning space where members can contribute to a project focused on building decentralized applications (**dApps**) on **Solana**.
 
 ## 🌟 Overview
 
-This repository serves as a hands-on learning platform for developers interested in Web3 and Solana. Members can contribute by solving issues, making PRs, and collaborating with peers to improve their skills.
+This repository serves as a hands-on learning platform for ST-Kano developers interested in Web3 and Solana. Members can contribute by solving issues, making PRs, and collaborating with peers to improve their skills.
 
 ## 🛠 Contribution Flow
 
@@ -18,25 +18,6 @@ To maintain a structured and collaborative workflow, follow these steps:
 5. **Review & Merge**: Your PR will be reviewed, and once approved, it will be merged.
 
 ⏳ If you do not submit a PR within the assigned duration, the issue may be reassigned.
-
-## 📂 Repository Structure
-
-The repository contains multiple projects, each in its own directory:
-
-```
-
-Superteam-Kano-Repo/
-│-- project-1/
-│-- project-2/
-│-- project-3/
-│-- ...
-│-- CONTRIBUTING.md
-│-- LICENSE
-│-- README.md
-
-```
-
-Each project will have its own documentation and setup instructions.
 
 ## 🚀 Getting Started
 
@@ -55,9 +36,9 @@ Before contributing, please read our [Contribution Guidelines](CONTRIBUTING.md) 
 ```sh
 git clone https://github.com/ahmadou5/solana-kano-devs-dashboard.git
 cd solana-kano-devs-dashboard
+npm install
+npm run dev
 ```
-
-Each project will have its own setup instructions in its respective directory.
 
 ## 📝 License
 
