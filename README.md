@@ -1,36 +1,51 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Superteam Kano Devs Dashboard
 
-## Getting Started
+Welcome to the official **Superteam Kano Devs Dashboard**! 🚀  
+This is a collaborative learning space where members can contribute to a project focused on building decentralized applications (**dApps**) on **Solana**.
 
-First, run the development server:
+## 🌟 Overview
 
-```bash
+This repository serves as a hands-on learning platform for ST-Kano developers interested in Web3 and Solana. Members can contribute by solving issues, making PRs, and collaborating with peers to improve their skills.
+
+## 🛠 Contribution Flow
+
+To maintain a structured and collaborative workflow, follow these steps:
+
+1. **Find an Issue**: Check the [Issues](https://github.com/ahmadou5/solana-kano-devs-dashboard/issues) tab for open tasks.
+2. **Get Assigned**: Comment on an issue to request assignment. Only assigned contributors can work on an issue.
+3. **Work on the Issue**: Once assigned, start working on the issue in a new branch.
+4. **Submit a PR**: Link the issue number in your PR description (e.g., `Fixes #42`).
+5. **Review & Merge**: Your PR will be reviewed, and once approved, it will be merged.
+
+⏳ If you do not submit a PR within the assigned duration, the issue may be reassigned.
+
+## 🚀 Getting Started
+
+## 📜 Contribution Guidelines
+
+Before contributing, please read our [Contribution Guidelines](CONTRIBUTING.md) to understand the workflow and best practices for submitting changes.
+
+### Prerequisites
+
+- Node.js & npm
+- Rust & Solana CLI
+- Git
+
+### Setup
+
+```sh
+git clone https://github.com/ahmadou5/solana-kano-devs-dashboard.git
+cd solana-kano-devs-dashboard
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 📝 License
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for details.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🤝 Join the Community!
 
-## Learn More
+Join the **Superteam Kano** Community! 🎉
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Happy building! 🚀
